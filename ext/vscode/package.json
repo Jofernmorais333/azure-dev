@@ -543,7 +543,7 @@
         "@microsoft/vscode-azext-utils": "~2",
         "@microsoft/vscode-azureresources-api": "~2",
         "dayjs": "~1",
-        "dotenv": "~16",
+        "dotenv": "~16.6.1",
         "rxjs": "~7",
         "semver": "~7",
         "yaml": "~2"

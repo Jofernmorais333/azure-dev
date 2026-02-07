@@ -540,7 +540,7 @@
         "webpack-cli": "~5"
     },
     "dependencies": {
-        "@microsoft/vscode-azext-utils": "~2",
+        "@microsoft/vscode-azext-utils": "~2.6.8",
         "@microsoft/vscode-azureresources-api": "~2",
         "dayjs": "~1",
         "dotenv": "~16",
